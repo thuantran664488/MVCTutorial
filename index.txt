@@ -1,6 +1,5 @@
 This is index.txt
 Add one more line
 3.  One line another
-4th line is thuan1
 4. 4th line
 5th line
