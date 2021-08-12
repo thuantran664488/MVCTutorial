@@ -8,4 +8,3 @@ This is forth line
 6 change from branch thuan
 7 change from branch master remote
 8 change from branch master remote
-chinh sua 1 dong
