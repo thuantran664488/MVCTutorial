@@ -7,4 +7,4 @@ This is forth line
 5 change from branch master
 6 change from branch thuan
 7 change from branch thuan remote
-8 change from branch thuan remote
+8 change from branch master remote
