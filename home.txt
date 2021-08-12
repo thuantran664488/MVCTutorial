@@ -1,1 +1,2 @@
 This is firt line of home.txt
+2 line from thuan local
