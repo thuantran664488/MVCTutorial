@@ -11,6 +11,3 @@ add 3rd text
 update module
 update module
 update module
-ádf
-dà
-ádfas
